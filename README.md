@@ -29,7 +29,6 @@ We introduce **AC²**, a visualization tool that helps users analyze **architect
 
 ### 🎥 **Demo & Download**
 👉 **Demo:** [Watch the Demo](https://www.youtube.com/watch?v=GNrJfZ0RCVI)  
-📥 **Download:** [AC² GitHub Repository](https://github.com/rishalab/AC2)
 
 ---
 
